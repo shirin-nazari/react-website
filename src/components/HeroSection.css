@@ -5,6 +5,7 @@ video {
   position: fixed;
   z-index: -1;
 }
+
 .hero-container {
   background: url("../images/Science_forest_1167053895.jpg") center center/cover
     no-repeat;
